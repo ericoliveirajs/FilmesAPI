@@ -1578,11 +1578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erico\\OneDrive\\Área de Trabalho\\Projetos\\C#\\FilmesAPI\\FilmesApi\\FilmesApi.csproj",
+      "projectUniqueName": "C:\\Users\\erico\\OneDrive\\Área de Trabalho\\Repositórios\\FilmesAPI\\FilmesAPI\\FilmesApi\\FilmesApi.csproj",
       "projectName": "FilmesApi",
-      "projectPath": "C:\\Users\\erico\\OneDrive\\Área de Trabalho\\Projetos\\C#\\FilmesAPI\\FilmesApi\\FilmesApi.csproj",
+      "projectPath": "C:\\Users\\erico\\OneDrive\\Área de Trabalho\\Repositórios\\FilmesAPI\\FilmesAPI\\FilmesApi\\FilmesApi.csproj",
       "packagesPath": "C:\\Users\\erico\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erico\\OneDrive\\Área de Trabalho\\Projetos\\C#\\FilmesAPI\\FilmesApi\\obj\\",
+      "outputPath": "C:\\Users\\erico\\OneDrive\\Área de Trabalho\\Repositórios\\FilmesAPI\\FilmesAPI\\FilmesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erico\\AppData\\Roaming\\NuGet\\NuGet.Config",
