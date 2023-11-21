@@ -118,3 +118,13 @@ C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\FilmesAPI\FilmesApi\obj\De
 C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 C:\Users\erico\OneDrive\Área de Trabalho\Projetos\C#\FilmesAPI\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.AssemblyReference.cache
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfoInputs.cache
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfo.cs
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CoreCompileInputs.cache
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.dll
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
+C:\Users\erico\OneDrive\Área de Trabalho\Repositórios\FilmesAPI\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
